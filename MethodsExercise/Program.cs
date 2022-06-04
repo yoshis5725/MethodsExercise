@@ -102,7 +102,7 @@ namespace MethodsExercise
         static void Main(string[] args)
         {
             Console.WriteLine("------- Exercise One -------");
-           // UserInfo();
+            UserInfo();
 
             Console.WriteLine("------- Exercise Two -------");
             Sum(2, 4, 6, 78);
