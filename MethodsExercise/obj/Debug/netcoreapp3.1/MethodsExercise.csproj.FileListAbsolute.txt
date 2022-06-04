@@ -1,0 +1,14 @@
+/Users/elliottp/Documents/Dev/repos/MethodsExercise/MethodsExercise/bin/Debug/netcoreapp3.1/MethodsExercise
+/Users/elliottp/Documents/Dev/repos/MethodsExercise/MethodsExercise/bin/Debug/netcoreapp3.1/MethodsExercise.deps.json
+/Users/elliottp/Documents/Dev/repos/MethodsExercise/MethodsExercise/bin/Debug/netcoreapp3.1/MethodsExercise.runtimeconfig.json
+/Users/elliottp/Documents/Dev/repos/MethodsExercise/MethodsExercise/bin/Debug/netcoreapp3.1/MethodsExercise.runtimeconfig.dev.json
+/Users/elliottp/Documents/Dev/repos/MethodsExercise/MethodsExercise/bin/Debug/netcoreapp3.1/MethodsExercise.dll
+/Users/elliottp/Documents/Dev/repos/MethodsExercise/MethodsExercise/bin/Debug/netcoreapp3.1/MethodsExercise.pdb
+/Users/elliottp/Documents/Dev/repos/MethodsExercise/MethodsExercise/obj/Debug/netcoreapp3.1/MethodsExercise.csproj.AssemblyReference.cache
+/Users/elliottp/Documents/Dev/repos/MethodsExercise/MethodsExercise/obj/Debug/netcoreapp3.1/MethodsExercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elliottp/Documents/Dev/repos/MethodsExercise/MethodsExercise/obj/Debug/netcoreapp3.1/MethodsExercise.AssemblyInfoInputs.cache
+/Users/elliottp/Documents/Dev/repos/MethodsExercise/MethodsExercise/obj/Debug/netcoreapp3.1/MethodsExercise.AssemblyInfo.cs
+/Users/elliottp/Documents/Dev/repos/MethodsExercise/MethodsExercise/obj/Debug/netcoreapp3.1/MethodsExercise.csproj.CoreCompileInputs.cache
+/Users/elliottp/Documents/Dev/repos/MethodsExercise/MethodsExercise/obj/Debug/netcoreapp3.1/MethodsExercise.dll
+/Users/elliottp/Documents/Dev/repos/MethodsExercise/MethodsExercise/obj/Debug/netcoreapp3.1/MethodsExercise.pdb
+/Users/elliottp/Documents/Dev/repos/MethodsExercise/MethodsExercise/obj/Debug/netcoreapp3.1/MethodsExercise.genruntimeconfig.cache
